@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+
+.all {
+    background-color: hsl(0, 0%, 12%);
+    align-items: center;
+    padding-top: 3px;  
+    margin: 100px auto;
+    width: 400px;
+    border-radius: 13px;
+    padding-bottom: 15px;
+    margin-bottom: 40px;
+}
+
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(Inter-Bold.ttf);
+}
+
+@font-face {
+    font-family: myFirstFont1;
+    src: url(Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: myFirstFont2;
+    src: url(Inter-SemiBold.ttf);
+}
+
+.jess-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.jess-round {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+
+.name-container {
+    text-align: center;
+    font-size: 19px;
+    color: hsl(0, 0%, 100%);
+    margin-bottom: 6px;
+    font-family: myFirstFont2;
+    font-weight: 300;
+}
+
+
+.location {
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+    font-family: myFirstFont2;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+.description {
+    font-family: myFirstFont1;
+    text-align: center;
+    margin-bottom: 16px;
+    color: hsl(0, 0%, 100%);
+
+}
+
+.links {
+    display: grid;
+    grid-template-columns: 100px;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    padding-right: 215px;
+}
+
+.btn {
+    width: 320px;
+    height: 50px;
+    font-size: 14px;
+    border-radius: 9px;
+    font-family: myFirstFont;
+    align-items: center;
+    border: none;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+    transition: all 0.5s;
+}
+
+.attribution {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-family: myFirstFont;
+    color: hsl(0, 0%, 100%);
+}
+
+.att, .att:link, .att:visited {
+    font-weight: bold;
+    font-family: myFirstFont2;
+    font-size: 18px;
+    color: hsl(75, 94%, 57%);
+}
