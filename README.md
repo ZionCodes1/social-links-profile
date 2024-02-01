@@ -1,6 +1,6 @@
-# Frontend Mentor - Recipe page solution
+# Frontend Mentor - Social links profile solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -15,7 +15,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,9 +28,8 @@ i was challenge to build a Social Links Profile and here it is
 
 ### Links
 
-- Solution URL: [https://github.com/ZionCodes1/simple-omelette-recipe.git]
-- Live Site URL: [https://splendorous-praline-67d564.netlify.app]
-
+- Solution URL: [https://github.com/ZionCodes1/social-links-profile.git]
+- Live Site URL: [https://golden-tulumba-57faf2.netlify.app]
 ## My process
 
 ### Built with
